@@ -1,7 +1,7 @@
 # core-typescript
-General typescript concepts used in most project.
+General typescript concepts used in most projects.
 
-Concepts reviewed:
+## Concepts reviewed:
 
 1. Interfaces and type alias
 2. Top and bottom types
