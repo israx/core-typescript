@@ -11,5 +11,5 @@ Concepts reviewed:
 6. Generics
 
 # Resources
-1. (Typescript fundamentals)[https://frontendmasters.com/courses/typescript-v4/]
-2. (Intermediate Typescript v2)[https://frontendmasters.com/courses/intermediate-typescript-v2/]
+1. [Typescript fundamentals](https://frontendmasters.com/courses/typescript-v4/)
+2. [Intermediate Typescript v2](https://frontendmasters.com/courses/intermediate-typescript-v2/)
